@@ -2,7 +2,7 @@
 @font-face {
   font-family: 'SAP Fiori Icons';
   src:
-    url('fonts/SAP-icons.ttf') format('truetype');
+    url('https://sutapamitra.github.io/fonts/SAP-icons.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
@@ -10,7 +10,7 @@
 @font-face {
   font-family: 'SAP Fiori Tools';
   src:
-    url('fonts/SAP-icons-TNT.ttf') format('truetype');
+    url('https://sutapamitra.github.io/fonts/SAP-icons-TNT.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
@@ -18,7 +18,7 @@
 @font-face {
   font-family: 'SAP Business Suite';
   src:
-    url('fonts/BusinessSuiteInAppSymbols.ttf') format('truetype');
+    url('https://sutapamitra.github.io/fonts/BusinessSuiteInAppSymbols.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
